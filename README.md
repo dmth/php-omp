@@ -4,6 +4,7 @@ A simple, incomplete php-implementation of OpenVAS'  omp5 implementation. This c
 
 
 Author Dustin Demuth 2014-2015
+
 Westfälische Wilhelms-Universität Münster
 
 Zentrum für Informationsverarbeitung - CERT
